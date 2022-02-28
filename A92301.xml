@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rebels of Irelands wicked conspiracie againsy [sic] Kingsaile in the province of Mounsteere, and county of Corke. With the relation of a bloudy act committed upon the bodies of a gentlewoman and her man, travelling that way. Also a speech spoken by the Earle of Tyrone to the rebels in the woods. Here also is related the place of their abode, and how they got thither being in the county of Dublin, five miles from the city, it being the south part of Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92301</idno>
+            <idno type="STC">Wing R605</idno>
+            <idno type="STC">Thomason E181_12</idno>
+            <idno type="STC">ESTC R13630</idno>
+            <idno type="EEBO-CITATION">99859512</idno>
+            <idno type="PROQUEST">99859512</idno>
+            <idno type="VID">111598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111598)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rebels of Irelands wicked conspiracie againsy [sic] Kingsaile in the province of Mounsteere, and county of Corke. With the relation of a bloudy act committed upon the bodies of a gentlewoman and her man, travelling that way. Also a speech spoken by the Earle of Tyrone to the rebels in the woods. Here also is related the place of their abode, and how they got thither being in the county of Dublin, five miles from the city, it being the south part of Ireland.</title>
+                  <author>O'Neill, Phelim, Sir, 1604?-1653.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Field,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A news-letter.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111598:1"/>
+            <pb facs="tcp:111598:1" rendition="simple:additions"/>
+            <p>THE REBELS OF IRELANDS WICKED CONSPIRACIE AGAINST <hi>Kingſaile</hi> in the province of <hi>Mounſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere,</hi> and County of <hi>Corke.</hi>
+            </p>
+            <p>WITH The Relation of a bloudy Act committed upon the bodies of a Gentlewoman and her man, travelling that way.</p>
+            <p>ALSO, <hi>A</hi> SPEECH Spoken by the Earle of <hi>Tyrone</hi> to the Rebels in the Woods.</p>
+            <p>Here alſo is related the place of their abode, and how they got thithes being in the County of Dublin, five miles from the City, it being the South part of Ireland.</p>
+            <p>printed for William Field, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:111598:2"/>
+            <pb facs="tcp:111598:2"/>
+            <head>THE REBELS Conſpiracie againſt <hi>Kingſaile</hi> in the Province Mounſteere, and the County of Corke.</head>
+            <p>VPon the 18. of December came the re<g ref="char:EOLhyphen"/>bels towards <hi>Kingſale,</hi> thinking to have entred into the City by policy, but not knowing of the watch-word, which was, God protect true proteſtants, they were interrupted of their purpoſe.</p>
+            <p>Then they marched twenty miles from the City, and the next evening, their Colonell by name, Hankscomb, ſent ſpyes abroad to ſee how they were fortified who were taken by Captain Roberts, an Engliſh-man.</p>
+            <p>Then did the aforeſaid Colonell ſend other ſpyes which were taken alſo, then perceived hee how the matter went: wherefore hee reſolutely went on, and at this time doth beſiege Kingſaile, where without the Citty, they committed a bloody out-rage, to the terror of all thoſe which
+<pb facs="tcp:111598:3"/>
+have heard it, according to the Relation of many Miniſters upon the laſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> day, beſide the re<g ref="char:EOLhyphen"/>port which came from thence upon Tueſday, being the 20 of December.</p>
+            <p>A gentlewoman not knowing of the beſiege, accompanied onely with her man, made toward Kingſaile, who were taken by the rebels: who firſt of all did hang up the man, then did they cea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e vpon the Gentlewoman, and plucking off her head covering, foure of them vvound the haire of their head about their skanes, and ſtuck them into the ground, and afterwards the afore<g ref="char:EOLhyphen"/>ſaid fovre had their will of her, and afterwards ript up her belly to ſee whether ſhe were vvith child or no. This was done within foure miles of <hi>Kingſaile.</hi>
+            </p>
+         </div>
+         <div type="speech">
+            <head>A SPEECH Made By the <hi>Earle</hi> of <hi>Tyrone</hi> to the Rebels in the woods.</head>
+            <p>HOvv it doth rejoyce me to ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e St. <hi>Patrick<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Banner flouriſh, by noble and free ſpirits.</p>
+            <p>
+               <pb facs="tcp:111598:3"/>
+Hovv am I cloathed with admiration to ſee the noble actions by you ſo couragiouſly per<g ref="char:EOLhyphen"/>formed.</p>
+            <p>Goe on, goe on, brave ſpirits, and let the world tremble hearing of your undanted actions, and expert Chivalry.</p>
+            <p>Svvim, ſvvim, vnto your deſires through Seas of blood, and let the Hereticks be the ſole object of your hate: as yet you have done bravely, the God of Battell crovvning you with vnparallel'd victory.</p>
+            <p>As I ſaid before, ſo <hi>I</hi> e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>courage you againe to goe on, and daily delight my ſence of ſeeing with bloody ſpectaeles: beare vpon your ſwords a bloody Enſigne, each point being covered with the heart of an Hereticke. It is not vn<g ref="char:EOLhyphen"/>knovvne to you all how my Father ſuffered, and how <hi>I</hi> was forced to fly: it is not vnknovvne to you all, hovv vvilling <hi>I</hi> am in your defence to loſe my deereſt and blood: it is not vnknovvne to you all vvhat paines <hi>I</hi> have taken in your de<g ref="char:EOLhyphen"/>fence. Firſt leaving of <hi>Spaine</hi> to ſuccour you. Secondly, by providing forces to aſſiſt you, and thirdly, what affection <hi>I</hi> have borne toward you. Wherefore as you have bin, ſo alw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is be valiant, for my owne part I will out dare the bullets of your enemies, and will ſpit in the face of all co<g ref="char:EOLhyphen"/>wards which are amongſt you, <hi>I</hi> ſpoke it not be<g ref="char:EOLhyphen"/>cauſe <hi>I</hi> feared your hitherto continued noble acts vvould ceaſe from practice, but the more nobly to encourage you.</p>
+            <stage>
+               <pb facs="tcp:111598:4"/>
+Then turned he himſelfe about to Sir Hugh Oneal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſpake thus unto him.</stage>
+            <p>For your owne part Sir, I ſhall owe my future fortunes to your ſervice, or rather friendſhip; for by you J live, by you I am in ſafety, to con<g ref="char:EOLhyphen"/>clude, by you I hope to attaine unto that, which by my foes heretofore I was put by.</p>
+            <p>Wherefore as you have bin, ſo continue<g ref="char:punc">▪</g> ſo may you command him hereafter. which here<g ref="char:EOLhyphen"/>tofore hath bin terrified by thoſe, which we now will bend our forces againſt.</p>
+            <p>Thoſe vvhich have debarred our friends of their accuſtomed freedome, and made them more then tributary ſlaves.</p>
+            <p>Wherefore take my words, as ſpoken from a friend, fight couragionſly, and liue famous eter<g ref="char:EOLhyphen"/>nally: conſider that Religion urgeth you unto it: conſider that freedome from bondage ur<g ref="char:EOLhyphen"/>geth you vnto it: conſider that your intimate friend intreats you vnto it, who deſires to live no longer then you may be happy.</p>
+            <div type="part">
+               <head>The place of moſt of the Rebels habitation heing Karloh in the County of Dublin.</head>
+               <p>THe rebels, moſt of them J mean at this pre<g ref="char:EOLhyphen"/>ſent time have their habitation in Karloh, five miles from the City of Dublin: in the ſouth
+<pb facs="tcp:111598:4"/>
+part of <hi>Ireland,</hi> many villages thereabout they have burned downe by fire.</p>
+               <p>Very ſtrong they are, and will not eaſily bee repelled, and have many Engines of war. At the firſt comming to that place, they ſhot downe moſt of the houſes, the place now is their owne, and are like to keepe that, and they will have many other places, unleſſe ſudden ayd, which the Proteſtants pray may ſpeedily bee ſent vnto them; elſe are they like to be utterly deſtroyed and <hi>England</hi> loſe its priviledge of Trafficke there.</p>
+            </div>
+            <div type="poem">
+               <head>Verſes made by a ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uldier.</head>
+               <l>Come ſend forth ayd, doe that without excuſe,</l>
+               <l>And then reforme you of every foule abuſe,</l>
+               <l>you ſhall have time, no doubt, then make good ſpeed</l>
+               <l>Its good to ſtench the wound that ſtill doth bleed.</l>
+               <l>When rebels hunt, and ſeeke revenge in bloud,</l>
+               <l>Its good to haſte, their force may be with ſtood,</l>
+               <l>And by collecting of our force together,</l>
+               <l>We doubt but <hi>Chriſt</hi> will ſend us ſafely thither;</l>
+               <l>The winds ſhall ſerve the waters calme, ſhall be,</l>
+               <l>If we this thing performe with courage free,</l>
+               <l>picke hence thoſe Lidgers proud papiſticall,</l>
+               <l>They ſtill pro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ect, they ſeeke to worke our fall:</l>
+               <l>They blaze ſuch rumours, and ſuch miſte they caſt,</l>
+               <l>To hinder us to circumvent our haſte:</l>
+               <l>That ſo they may obtaine a longer time</l>
+               <l>To bring in forces to ſubvert our climbe.</l>
+               <l>Now haſte with ſpeed, now let it acted bee,</l>
+               <l>preſſe ſouldiers now with courage bold and free.</l>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
